@@ -1,2 +1,2 @@
 # on-demand
-Vote for Your Tutorial You Want 
+Vote for Tutorial You Want 
